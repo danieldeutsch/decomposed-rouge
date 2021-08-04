@@ -1,3 +1,7 @@
+# Decomposed ROUGE
+This fork of SacreROUGE contains the implementation of the [`DecomposedRouge`](https://github.com/danieldeutsch/decomposed-rouge/blob/master/doc/metrics/decomposed-rouge.md) evaluation metric that was used in the paper [Understanding the Extent to which Summarization Evaluation Metrics Measure the Information Quality of Summaries](https://arxiv.org/abs/2010.12495).
+We have since removed it from the official SacreROUGE repository.
+
 # SacreROUGE
 ![Master](https://github.com/danieldeutsch/sacrerouge/workflows/Master/badge.svg?branch=master&event=push)
 
